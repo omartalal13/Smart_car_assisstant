@@ -1,6 +1,6 @@
-#Smart car assisstant
-##intro
-this is a final year graduation project from the faculty of Engineering of Cairo university in this project we started to think about what could be done to improve the convince of a car and this was what were did in the end
+#Smart car assisstant#
+##intro##
+This is a final year graduation project from the faculty of Engineering of Cairo university in this project we started to think about what could be done to improve the convince of a car and this was what were did in the end
 ##Start
 We recommend creating a new enviroment as good practice as enviroments don't affect the main systems this is more of a problem in linux than windows but it's a good practice either way
 We first start by running the "Install_dep.sh" file
