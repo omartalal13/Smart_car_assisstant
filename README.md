@@ -7,16 +7,23 @@ This is a final year graduation project from the faculty of Engineering of Cairo
 
 We recommend creating a new enviroment as good practice as enviroments don't affect the main systems this is more of a problem in linux than windows but it's a good practice either way
 We first start by running the "Install_dep.sh" file
+
 then download the chromedriver and geckodriver and extract them to /usr/bin/(chromedriver/geckodriver)
 then the 
-sudo chown root:/usr/bin/(x)driver
-sudo chmod 755 /usr/bin/(x)driver
+
+>sudo chown root:/usr/bin/(x)driver
+
+>sudo chmod 755 /usr/bin/(x)driver
+
 commands should be run with the (x) replace with the gecko and chrome at each time
+
 then install the chrome web browser and the code is ready to be ran
 
 ## To Run 
+
 to run the code just use the 
-python main.py
+
+>python main.py
  
  ### done by
  Doaa Hussien
