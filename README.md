@@ -2,7 +2,8 @@
 
 ## intro
 
-This is a final year graduation project from the faculty of Engineering of Cairo university in this project we started to think about what could be done to improve the convince of a car and this was what were did in the end
+This is a final year graduation project by the name of Natural and Fully Multimodal Interaction with the
+Vehicle and its Surroundings from the faculty of Engineering of Cairo university in this project we started to think about what could be done to improve the convince of a car and this was what were did in the end
 ## Start
 
 We recommend creating a new enviroment as good practice as enviroments don't affect the main systems this is more of a problem in linux than windows but it's a good practice either way
